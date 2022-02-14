@@ -317,20 +317,36 @@
       "denom": "ibc/0CB5D60E57FD521FA39D11E3E410144389010AC5EF5F292BC9BDD832FA2FDBF9"
     },
     {
-      "chain_id": "juno-1",
-      "decimals": "3",
-      "denom": "crew",
-      "id": "",
-      "logoURI": "https://ipfs.io/ipfs/QmaAuJ8HHwsh9R2RduFQEbz3VLdQxHK7KWg4F3GbJA4KNf",
-      "name": "CryptoCrew",
-      "native": false,
+      "id": "CREW",
       "pool_id": "JUNO-CREW",
+      "chain_id": "juno-1",
+      "token_address": "juno18cpnn3cnrr9xq7r0cqp7shl7slasf27nrmskw4rrw8c6hyp8u7rqe2nulg",
       "swap_address": "juno1prn7xau6fvvvns82yydslk9gh2yvftk24rtwlekcswsfv7pwf8ps7v3daa",
       "symbol": "CREW",
+      "name": "CryptoCrew",
+      "decimals": 3,
+      "logoURI": "https://ipfs.io/ipfs/QmaAuJ8HHwsh9R2RduFQEbz3VLdQxHK7KWg4F3GbJA4KNf",
       "tags": [
         "cw20"
       ],
-      "token_address": "juno18cpnn3cnrr9xq7r0cqp7shl7slasf27nrmskw4rrw8c6hyp8u7rqe2nulg"
+      "native": false,
+      "denom": "crew"
+    },
+   {
+      "chain_id": "juno-1",
+      "decimals": "3",
+      "denom": "bsn",
+      "id": "",
+      "logoURI": "https://static.wixstatic.com/media/df980e_d1204a2b47344f9d9595ccefbc23b942~mv2.png",
+      "name": "BOSON",
+      "native": false,
+      "pool_id": "JUNO-BSN",
+      "swap_address": "juno1ylyyn5059psp5q6wuxnpdsmlw7z4k2ukpc5jrtzhf52kkned9h6q5vahfz",
+      "symbol": "BSN",
+      "tags": [
+        "cw20"
+      ],
+      "token_address": "juno1rqsmf8vetkgjxmqdmm0c68hzksj6vcrkjf8j7gpwffs7a5vvpxwquptfyp"
     }
   ],
   "version": {
