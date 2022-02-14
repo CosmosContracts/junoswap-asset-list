@@ -319,18 +319,20 @@
     {
       "chain_id": "juno-1",
       "decimals": "3",
-      "denom": "bsn",
+      
+      "denom": "nmd",
       "id": "",
-      "logoURI": "https://static.wixstatic.com/media/df980e_d1204a2b47344f9d9595ccefbc23b942~mv2.png",
-      "name": "BOSON",
+      "logoURI": "",
+      "name": "NomadDAO",
       "native": false,
-      "pool_id": "JUNO-BSN",
-      "swap_address": "juno1ylyyn5059psp5q6wuxnpdsmlw7z4k2ukpc5jrtzhf52kkned9h6q5vahfz",
-      "symbol": "BSN",
+      "pool_id": "JUNO-NMD",
+      "swap_address": "juno1pw95xca9gkt00leqq28pfwtpwwcdz88e0lpxm4k8pkdh2dyz5tustlvcl2",
+      "symbol": "NMD",
       "tags": [
         "cw20"
       ],
-      "token_address": "juno1rqsmf8vetkgjxmqdmm0c68hzksj6vcrkjf8j7gpwffs7a5vvpxwquptfyp"
+      "token_address": "juno1mjxs0lgkzawx99s8yzsx97v9s5jlrgvjlyv0mluspgq90hm59laqewh7af"
+
     }
   ],
   "version": {
