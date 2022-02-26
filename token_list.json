@@ -315,6 +315,22 @@
       ],
       "native": true,
       "denom": "ibc/0CB5D60E57FD521FA39D11E3E410144389010AC5EF5F292BC9BDD832FA2FDBF9"
+    },
+    {
+      "id": "",
+      "pool_id": "JUNO-NMD",
+      "chain_id": "juno-1",
+      "token_address": "juno1mjxs0lgkzawx99s8yzsx97v9s5jlrgvjlyv0mluspgq90hm59laqewh7af",
+      "swap_address": "juno15ujwmyl6700f2xncgs094gzv4jp3ej50pd6deqlws4vz0r4v4r9sa8pjqa",
+      "symbol": "NMD",
+      "name": "NomadDAO",
+      "decimals": "3",
+      "logoURI": "",
+      "tags": [
+        "cw20"
+      ],
+      "native": false,
+      "denom": "nmd"
     }
   ],
   "version": {
