@@ -315,6 +315,22 @@
       ],
       "native": true,
       "denom": "ibc/0CB5D60E57FD521FA39D11E3E410144389010AC5EF5F292BC9BDD832FA2FDBF9"
+    },
+    {
+      "id": "",
+      "pool_id": "JUNO-JUNITS",
+      "chain_id": "juno-1",
+      "token_address": "juno1r2lr60fujfmnv4ekguz67gl7ud0xht7l6rrvv320gv28ev50hgfsvzywal",
+      "swap_address": "juno120gxmcjc60zs2seufu6fsj8s3egcrj8zaru9834nth3y6pmxc9xs3masz3",
+      "symbol": "JUNITS",
+      "name": "Junits",
+      "decimals": "2",
+      "logoURI": "https://i.ibb.co/M9LnfT8/Junits-Logo-Final.png",
+      "tags": [
+        "cw20"
+      ],
+      "native": false,
+      "denom": "junits"
     }
   ],
   "version": {
@@ -323,3 +339,4 @@
     "patch": 0
   }
 }
+
