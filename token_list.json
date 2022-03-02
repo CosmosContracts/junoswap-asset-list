@@ -350,8 +350,8 @@
     },
     {
       "id": "dhk",
-      "pool_id": "JUNO-DHK”,
-      "chain_id": "juno-1”,
+      "pool_id": "JUNO-DHK",
+      "chain_id": "juno-1",
       "token_address": "juno1tdjwrqmnztn2j3sj2ln9xnyps5hs48q3ddwjrz7jpv6mskappjys5czd49",
       "swap_address": "juno19jlnnqvgehj7vex48p7sjfpl6te98els8ca6txrmvhesrlzgytcq0aankj",
       "symbol": "DHK",
