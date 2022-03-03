@@ -347,7 +347,23 @@
       ],
       "native":false,
       "denom": "marble"
-    }
+    },
+    {
+          "id": "crew",
+          "pool_id": "JUNO-CREW",
+          "chain_id": "juno-1",
+          "token_address": "juno18cpnn3cnrr9xq7r0cqp7shl7slasf27nrmskw4rrw8c6hyp8u7rqe2nulg",
+          "swap_address": "juno1zpv53vs79que4x6ks5v5q26pt44j7ehrcfc5zxxnhautklzv76mspmj0yg",
+          "symbol": "CREW",
+          "name": "CryptoCrew",
+          "decimals": "3",
+          "logoURI": "https://ipfs.io/ipfs/QmaAuJ8HHwsh9R2RduFQEbz3VLdQxHK7KWg4F3GbJA4KNf",
+          "tags": [
+            "cw20"
+          ],
+          "native": false,
+          "denom": "crew"
+        }
   ],
   "version": {
     "major": 0,
