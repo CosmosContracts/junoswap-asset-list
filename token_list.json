@@ -363,7 +363,24 @@
       ],
       "native":false,
       "denom": "marble"
+    },
+    {
+      "id": "",
+      "pool_id": "JUNO-HKLD",
+      "chain_id": "juno-1",
+      "token_address": "juno15mhwf7cpkmw6ecv76ye0q57rqmty2m4feuu55a72acfhxp4kl5kqe309wu",
+      "swap_address": "juno1mvx5vgxelzr58zfdhzrzhdnq7t7uuug3z5rsy3deft4uvfuj8h4szlpw48",
+      "symbol": "HKLD",
+      "name": "HKLD",
+      "decimals": 6,
+      "logoURI": "https://welikenodes.onelike.biz/images/W-360.png",
+      "tags": [
+        "cw20"
+      ],
+      "native":false,
+      "denom": "HKLD"
     }
+  ],
   ],
   "version": {
     "major": 0,
