@@ -1,373 +1,389 @@
 {
-  "name": "Juno Token List",
-  "logoURI": "",
-  "keywords": [
-    "special tokens"
-  ],
-  "tags": {
-    "Juno": {
-      "name": "Juno",
-      "description": "Tokens that are listed on Juno"
-    }
-  },
-  "timestamp": "2022-01-12T00:00:00+00:00",
-  "base_token": {
-    "id": "juno-network",
-    "pool_id": "JUNO+JUNO",
-    "chain_id": "juno-1",
-    "token_address": "",
-    "swap_address": "",
-    "symbol": "JUNO",
-    "name": "Juno",
-    "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/juno.png",
-    "tags": [
-      "native"
-    ],
-    "native": true,
-    "denom": "ujuno"
-  },
-  "tokens": [
-    {
-      "id": "juno-network",
-      "pool_id": "JUNO+JUNO",
-      "chain_id": "juno-1",
-      "token_address": "",
-      "swap_address": "",
-      "symbol": "JUNO",
-      "name": "Juno",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/juno.png",
-      "tags": [
-        "native"
-      ],
-      "native": true,
-      "denom": "ujuno"
-    },
-    {
-      "id": "cosmos",
-      "pool_id": "JUNO-ATOM",
-      "chain_id": "juno-1",
-      "token_address": "",
-      "swap_address": "juno1sg6chmktuhyj4lsrxrrdflem7gsnk4ejv6zkcc4d3vcqulzp55wsf4l4gl",
-      "symbol": "ATOM",
-      "name": "Atom",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/atom.png",
-      "tags": [
-        "native"
-      ],
-      "native": true,
-      "denom": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9"
-    },
-    {
-      "id": "terrausd",
-      "pool_id": "JUNO-UST",
-      "chain_id": "juno-1",
-      "token_address": "",
-      "swap_address": "juno1hue3dnrtgf9ly2frnnvf8z5u7e224ctc4hk7wks2xumeu3arj6rs9vgzec",
-      "symbol": "UST",
-      "name": "Terra UST",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/ust.png",
-      "tags": [
-        "native"
-      ],
-      "native": true,
-      "denom": "ibc/2DA4136457810BCB9DAAB620CA67BC342B17C3C70151CA70490A170DF7C9CB27"
-    },
-    {
-      "id": "bitsong",
-      "pool_id": "JUNO-BTSG",
-      "chain_id": "juno-1",
-      "token_address": "",
-      "swap_address": "juno1j7pdtemw0qvl6rmnl0sf324409gz2p4sdt6rv659482x9rqqz6mqd653dg",
-      "symbol": "BTSG",
-      "name": "BitSong",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/btsg.png",
-      "tags": [
-        "native"
-      ],
-      "native": true,
-      "denom": "ibc/008BFD000A10BCE5F0D4DD819AE1C1EC2942396062DABDD6AE64A655ABC7085B"
-    },
-    {
-      "id": "terra-luna",
-      "pool_id": "JUNO-LUNA",
-      "chain_id": "juno-1",
-      "token_address": "",
-      "swap_address": "juno10mrlcttkwt99wxnqfyk6327lq3ac9yhfle2fd0c5s4rp8dzqy9ps3sjzyf",
-      "symbol": "LUNA",
-      "name": "LUNA",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/luna.png",
-      "tags": [
-        "native"
-      ],
-      "native": true,
-      "denom": "ibc/8F865D9760B482FF6254EDFEC1FF2F1273B9AB6873A7DE484F89639795D73D75"
-    },
-    {
-      "id": "osmosis",
-      "pool_id": "JUNO-OSMO",
-      "chain_id": "juno-1",
-      "token_address": "",
-      "swap_address": "juno1el6rfmz6h9pwpdlf6k2qf4dwt3y5wqd7k3xpyvytklsnkt9uv2aqe8aq4v",
-      "symbol": "OSMO",
-      "name": "OSMO",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/osmo.png",
-      "tags": [
-        "native"
-      ],
-      "native": true,
-      "denom": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518"
-    },
-    {
-      "id": "stargaze",
-      "pool_id": "JUNO-STARS",
-      "chain_id": "juno-1",
-      "token_address": "",
-      "swap_address": "juno1z5vukf037r6acgln3n37tr8a5rv7wafqzhcq29ddn9etwwtfrytsn6xvux",
-      "symbol": "STARS",
-      "name": "STARS",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/stars.png",
-      "tags": [
-        "native"
-      ],
-      "native": true,
-      "denom": "ibc/F6B367385300865F654E110976B838502504231705BAC0849B0651C226385885"
-    },
-    {
-      "id": "chihuahua-token",
-      "pool_id": "JUNO-HUAHUA",
-      "chain_id": "chihuahua-1",
-      "token_address": "",
-      "swap_address": "juno1730cx75d8uevqvrkcwxpy9trhqqfksu5u9xwqss0qe4tn7x0tt3shakhk8",
-      "symbol": "HUAHUA",
-      "name": "HUAHUA",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/huahua.png",
-      "tags": [
-        "native"
-      ],
-      "native": true,
-      "denom": "ibc/D836B191CDAE8EDACDEBE7B64B504C5E06CC17C6A072DAF278F9A96DF66F6241"
-    },
-    {
-      "id": "akash-network",
-      "pool_id": "JUNO-AKT",
-      "chain_id": "akashnet-2",
-      "token_address": "",
-      "swap_address": "juno1tmxx3rdnnrcckkh7pjde924lftjs724rzd44sqte5xh8xax0yf2sc7v7dk",
-      "symbol": "AKT",
-      "name": "AKT",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/akt.png",
-      "tags": [
-        "native"
-      ],
-      "native": true,
-      "denom": "ibc/DFC6F33796D5D0075C5FB54A4D7B8E76915ACF434CB1EE2A1BA0BB8334E17C3A"
-    },
-    {
-      "id": "persistence",
-      "pool_id": "JUNO-XPRT",
-      "chain_id": "core-1",
-      "token_address": "",
-      "swap_address": "juno1yaff0t6tfheqcdep24euu7w0xhnhs2yjwwv7r2c280vlns8trghq5d72pd",
-      "symbol": "XPRT",
-      "name": "XPRT",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/xprt.png",
-      "tags": [
-        "native"
-      ],
-      "native": true,
-      "denom": "ibc/7455B3F2F2737906BACF4AE980069A4CAB7C7F9FDAABAEFBA439DF037AEC5898"
-    },
-    {
-      "id": "comdex",
-      "pool_id": "JUNO-CMDX",
-      "chain_id": "comdex-1",
-      "token_address": "",
-      "swap_address": "juno152lfpmadpxh2xha5wmlh2np5rj8fuy06sk72j55v686wd4q4c9jsvwj0gm",
-      "symbol": "CMDX",
-      "name": "CMDX",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/cmdx.png",
-      "tags": [
-        "native"
-      ],
-      "native": true,
-      "denom": "ibc/946AD96F278770521526D7283F58268DA2F6ACDDE40324A9D1C86811D78C86A0"
-    },
-    {
-      "id": "dig",
-      "pool_id": "JUNO-DIG",
-      "chain_id": "dig-1",
-      "token_address": "",
-      "swap_address": "juno1gpa5ardzal22el6czj4j0d2pwy0m9qj06lr20t2l8fca3gkws63qfnx8eq",
-      "symbol": "DIG",
-      "name": "DIG",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/dig.png",
-      "tags": [
-        "native"
-      ],
-      "native": true,
-      "denom": "ibc/6842C591DC4588411A565C9FF650FB15A17DFE3F0A43201E8141E4D14B8D171A"
-    },
-    {
-      "id": "secret",
-      "pool_id": "JUNO-SCRT",
-      "chain_id": "secret-4",
-      "token_address": "",
-      "swap_address": "juno1hkz5dhn59w6l29k8w8ceuramqx2f35qpen7xtlx6ezketwh8ndxq8rwq2a",
-      "symbol": "SCRT",
-      "name": "SCRT",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/scrt.png",
-      "tags": [
-        "native"
-      ],
-      "native": true,
-      "denom": "ibc/B55B08EF3667B0C6F029C2CC9CAA6B00788CF639EBB84B34818C85CBABA33ABD"
-    },
-    {
-      "id": "neta",
-      "pool_id": "JUNO-NETA",
-      "chain_id": "juno-1",
-      "token_address": "juno168ctmpyppk90d34p3jjy658zf5a5l3w8wk35wht6ccqj4mr0yv8s4j5awr",
-      "swap_address": "juno1e8n6ch7msks487ecznyeagmzd5ml2pq9tgedqt2u63vra0q0r9mqrjy6ys",
-      "symbol": "NETA",
-      "name": "NETA",
-      "decimals": 6,
-      "logoURI": "    https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/neta.png",
-      "tags": [
-        "cw20"
-      ],
-      "native": false,
-      "denom": "neta"
-    },
-    {
-      "id": "",
-      "pool_id": "JUNO-CANLAB",
-      "chain_id": "juno-1",
-      "token_address": "juno1vn38rzq0wc7zczp4dhy0h5y5kxh2jjzeahwe30c9cc6dw3lkyk5qn5rmfa",
-      "swap_address": "juno1acs6q36t6qje5k82h5g74plr258y2q90cjf9z4wnktt7caln0mhsx8mt7z",
-      "symbol": "CANLAB",
-      "name": "CANLAB",
-      "decimals": 3,
-      "logoURI": "https://raw.githubusercontent.com/seekingtau/junoswap-asset-list/main/images/cannalabs.png",
-      "tags": [
-        "cw20"
-      ],
-      "native": false,
-      "denom": "canlab"
-    },
-    {
-      "id": "",
-      "pool_id": "JUNO-TUCK",
-      "chain_id": "juno-1",
-      "token_address": "juno1wurfx334prlceydmda3aecldn2xh4axhqtly05n8gptgl69ee7msrewg6y",
-      "swap_address": "juno133xa84qnue3uy0mj9emvauddxzw554rfl9rr6eadhfau50ws7gvs4ynm79",
-      "symbol": "TUCK",
-      "name": "TUCK",
-      "decimals": 3,
-      "logoURI": "https://raw.githubusercontent.com/tuckermint/junoswap-asset-list/main/images/tuckermint.png",
-      "tags": [
-        "cw20"
-      ],
-      "native": false,
-      "denom": "tuck"
-    },
-    {
-      "id": "",
-      "pool_id": "JUNO-HULC",
-      "chain_id": "juno-1",
-      "token_address": "juno1pshrvuw5ng2q4nwcsuceypjkp48d95gmcgjdxlus2ytm4k5kvz2s7t9ldx",
-      "swap_address": "juno16zn96yf3vnxengke3vcf6mg9x7qyppgsdh3dnnmvdd8hvtpw58wsrjuu56",
-      "symbol": "HULC",
-      "name": "HULC",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/hulcat.png",
-      "tags": [
-        "cw20"
-      ],
-      "native": false,
-      "denom": "hulc"
-    },
-    {
-      "id": "bitcanna",
-      "pool_id": "JUNO-BITCANNA",
-      "chain_id": "bitcanna-1",
-      "token_address": "",
-      "swap_address": "juno1gv2gswtan8wsk54h663waefffywnuc9wcxr7xl5pnnxvjaqunpgs20t39g",
-      "symbol": "BCNA",
-      "name": "BCNA",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/bcna.png",
-      "tags": [
-        "native"
-      ],
-      "native": true,
-      "denom": "ibc/0CB5D60E57FD521FA39D11E3E410144389010AC5EF5F292BC9BDD832FA2FDBF9"
-    },
-        {
-      "id": "",
-      "pool_id": "JUNO-HOPE",
-      "chain_id": "juno-1",
-      "token_address": "juno1re3x67ppxap48ygndmrc7har2cnc7tcxtm9nplcas4v0gc3wnmvs3s807z",
-      "swap_address": "juno18nflutunkth2smnh257sxtxn9p5tq6632kqgsw6h0c02wzpnq9rq927heu",
-      "symbol": "HOPE",
-      "name": "HOPE GALAXY",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/seekingtau/junoswap-asset-list/main/images/hopelogo.png",
-      "tags": [
-        "cw20"
-      ],
-      "native": false,
-      "denom": "hope"
-},
-    {
-      "id": "",
-      "pool_id": "JUNO-RAC",
-      "chain_id": "juno-1",
-      "token_address": "juno1r4pzw8f9z0sypct5l9j906d47z998ulwvhvqe5xdwgy8wf84583sxwh0pa",
-      "swap_address": "juno1m08vn7klzxh9tmqwajuux202xms2qz3uckle7zvtturcq7vk2yaqpcwxlz",
-      "symbol": "RAC",
-      "name": "RAC",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/racoon-supply-rac/junoswap-asset-list/main/images/racoon.png",
-      "tags": [
-        "cw20"
-      ],
-      "native":false,
-      "denom": "rac"
-    },
-    {
-      "id": "",
-      "pool_id": "JUNO-MARBLE",
-      "chain_id": "juno-1",
-      "token_address": "juno1g2g7ucurum66d42g8k5twk34yegdq8c82858gz0tq2fc75zy7khssgnhjl",
-      "swap_address": "juno1cvjuc66rdg34guugmxpz6w59rw6ghrun5m33z3hpvx6q60f40knqglhzzx",
-      "symbol": "MARBLE",
-      "name": "MARBLE",
-      "decimals": 3,
-      "logoURI": "https://i.ibb.co/WshPHkt/marble-logo.png",
-      "tags": [
-        "cw20"
-      ],
-      "native":false,
-      "denom": "marble"
-    }
-  ],
-  "version": {
-    "major": 0,
-    "minor": 1,
-    "patch": 0
+    "name": "Juno Token List",
+    "logoURI": "",
+    "keywords": [
+      "special tokens"
+    ],
+    "tags": {
+      "Juno": {
+        "name": "Juno",
+        "description": "Tokens that are listed on Juno"
+      }
+    },
+    "timestamp": "2022-01-12T00:00:00+00:00",
+    "base_token": {
+      "id": "juno-network",
+      "pool_id": "JUNO+JUNO",
+      "chain_id": "juno-1",
+      "token_address": "",
+      "swap_address": "",
+      "symbol": "JUNO",
+      "name": "Juno",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/juno.png",
+      "tags": [
+        "native"
+      ],
+      "native": true,
+      "denom": "ujuno"
+    },
+    "tokens": [
+      {
+        "id": "juno-network",
+        "pool_id": "JUNO+JUNO",
+        "chain_id": "juno-1",
+        "token_address": "",
+        "swap_address": "",
+        "symbol": "JUNO",
+        "name": "Juno",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/juno.png",
+        "tags": [
+          "native"
+        ],
+        "native": true,
+        "denom": "ujuno"
+      },
+      {
+        "id": "cosmos",
+        "pool_id": "JUNO-ATOM",
+        "chain_id": "juno-1",
+        "token_address": "",
+        "swap_address": "juno1sg6chmktuhyj4lsrxrrdflem7gsnk4ejv6zkcc4d3vcqulzp55wsf4l4gl",
+        "symbol": "ATOM",
+        "name": "Atom",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/atom.png",
+        "tags": [
+          "native"
+        ],
+        "native": true,
+        "denom": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9"
+      },
+      {
+        "id": "terrausd",
+        "pool_id": "JUNO-UST",
+        "chain_id": "juno-1",
+        "token_address": "",
+        "swap_address": "juno1hue3dnrtgf9ly2frnnvf8z5u7e224ctc4hk7wks2xumeu3arj6rs9vgzec",
+        "symbol": "UST",
+        "name": "Terra UST",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/ust.png",
+        "tags": [
+          "native"
+        ],
+        "native": true,
+        "denom": "ibc/2DA4136457810BCB9DAAB620CA67BC342B17C3C70151CA70490A170DF7C9CB27"
+      },
+      {
+        "id": "bitsong",
+        "pool_id": "JUNO-BTSG",
+        "chain_id": "juno-1",
+        "token_address": "",
+        "swap_address": "juno1j7pdtemw0qvl6rmnl0sf324409gz2p4sdt6rv659482x9rqqz6mqd653dg",
+        "symbol": "BTSG",
+        "name": "BitSong",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/btsg.png",
+        "tags": [
+          "native"
+        ],
+        "native": true,
+        "denom": "ibc/008BFD000A10BCE5F0D4DD819AE1C1EC2942396062DABDD6AE64A655ABC7085B"
+      },
+      {
+        "id": "terra-luna",
+        "pool_id": "JUNO-LUNA",
+        "chain_id": "juno-1",
+        "token_address": "",
+        "swap_address": "juno10mrlcttkwt99wxnqfyk6327lq3ac9yhfle2fd0c5s4rp8dzqy9ps3sjzyf",
+        "symbol": "LUNA",
+        "name": "LUNA",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/luna.png",
+        "tags": [
+          "native"
+        ],
+        "native": true,
+        "denom": "ibc/8F865D9760B482FF6254EDFEC1FF2F1273B9AB6873A7DE484F89639795D73D75"
+      },
+      {
+        "id": "osmosis",
+        "pool_id": "JUNO-OSMO",
+        "chain_id": "juno-1",
+        "token_address": "",
+        "swap_address": "juno1el6rfmz6h9pwpdlf6k2qf4dwt3y5wqd7k3xpyvytklsnkt9uv2aqe8aq4v",
+        "symbol": "OSMO",
+        "name": "OSMO",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/osmo.png",
+        "tags": [
+          "native"
+        ],
+        "native": true,
+        "denom": "ibc/ED07A3391A112B175915CD8FAF43A2DA8E4790EDE12566649D0C2F97716B8518"
+      },
+      {
+        "id": "stargaze",
+        "pool_id": "JUNO-STARS",
+        "chain_id": "juno-1",
+        "token_address": "",
+        "swap_address": "juno1z5vukf037r6acgln3n37tr8a5rv7wafqzhcq29ddn9etwwtfrytsn6xvux",
+        "symbol": "STARS",
+        "name": "STARS",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/stars.png",
+        "tags": [
+          "native"
+        ],
+        "native": true,
+        "denom": "ibc/F6B367385300865F654E110976B838502504231705BAC0849B0651C226385885"
+      },
+      {
+        "id": "chihuahua-token",
+        "pool_id": "JUNO-HUAHUA",
+        "chain_id": "chihuahua-1",
+        "token_address": "",
+        "swap_address": "juno1730cx75d8uevqvrkcwxpy9trhqqfksu5u9xwqss0qe4tn7x0tt3shakhk8",
+        "symbol": "HUAHUA",
+        "name": "HUAHUA",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/huahua.png",
+        "tags": [
+          "native"
+        ],
+        "native": true,
+        "denom": "ibc/D836B191CDAE8EDACDEBE7B64B504C5E06CC17C6A072DAF278F9A96DF66F6241"
+      },
+      {
+        "id": "akash-network",
+        "pool_id": "JUNO-AKT",
+        "chain_id": "akashnet-2",
+        "token_address": "",
+        "swap_address": "juno1tmxx3rdnnrcckkh7pjde924lftjs724rzd44sqte5xh8xax0yf2sc7v7dk",
+        "symbol": "AKT",
+        "name": "AKT",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/akt.png",
+        "tags": [
+          "native"
+        ],
+        "native": true,
+        "denom": "ibc/DFC6F33796D5D0075C5FB54A4D7B8E76915ACF434CB1EE2A1BA0BB8334E17C3A"
+      },
+      {
+        "id": "persistence",
+        "pool_id": "JUNO-XPRT",
+        "chain_id": "core-1",
+        "token_address": "",
+        "swap_address": "juno1yaff0t6tfheqcdep24euu7w0xhnhs2yjwwv7r2c280vlns8trghq5d72pd",
+        "symbol": "XPRT",
+        "name": "XPRT",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/xprt.png",
+        "tags": [
+          "native"
+        ],
+        "native": true,
+        "denom": "ibc/7455B3F2F2737906BACF4AE980069A4CAB7C7F9FDAABAEFBA439DF037AEC5898"
+      },
+      {
+        "id": "comdex",
+        "pool_id": "JUNO-CMDX",
+        "chain_id": "comdex-1",
+        "token_address": "",
+        "swap_address": "juno152lfpmadpxh2xha5wmlh2np5rj8fuy06sk72j55v686wd4q4c9jsvwj0gm",
+        "symbol": "CMDX",
+        "name": "CMDX",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/cmdx.png",
+        "tags": [
+          "native"
+        ],
+        "native": true,
+        "denom": "ibc/946AD96F278770521526D7283F58268DA2F6ACDDE40324A9D1C86811D78C86A0"
+      },
+      {
+        "id": "dig",
+        "pool_id": "JUNO-DIG",
+        "chain_id": "dig-1",
+        "token_address": "",
+        "swap_address": "juno1gpa5ardzal22el6czj4j0d2pwy0m9qj06lr20t2l8fca3gkws63qfnx8eq",
+        "symbol": "DIG",
+        "name": "DIG",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/dig.png",
+        "tags": [
+          "native"
+        ],
+        "native": true,
+        "denom": "ibc/6842C591DC4588411A565C9FF650FB15A17DFE3F0A43201E8141E4D14B8D171A"
+      },
+      {
+        "id": "secret",
+        "pool_id": "JUNO-SCRT",
+        "chain_id": "secret-4",
+        "token_address": "",
+        "swap_address": "juno1hkz5dhn59w6l29k8w8ceuramqx2f35qpen7xtlx6ezketwh8ndxq8rwq2a",
+        "symbol": "SCRT",
+        "name": "SCRT",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/scrt.png",
+        "tags": [
+          "native"
+        ],
+        "native": true,
+        "denom": "ibc/B55B08EF3667B0C6F029C2CC9CAA6B00788CF639EBB84B34818C85CBABA33ABD"
+      },
+      {
+        "id": "neta",
+        "pool_id": "JUNO-NETA",
+        "chain_id": "juno-1",
+        "token_address": "juno168ctmpyppk90d34p3jjy658zf5a5l3w8wk35wht6ccqj4mr0yv8s4j5awr",
+        "swap_address": "juno1e8n6ch7msks487ecznyeagmzd5ml2pq9tgedqt2u63vra0q0r9mqrjy6ys",
+        "symbol": "NETA",
+        "name": "NETA",
+        "decimals": 6,
+        "logoURI": "    https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/neta.png",
+        "tags": [
+          "cw20"
+        ],
+        "native": false,
+        "denom": "neta"
+      },
+      {
+        "id": "",
+        "pool_id": "JUNO-CANLAB",
+        "chain_id": "juno-1",
+        "token_address": "juno1vn38rzq0wc7zczp4dhy0h5y5kxh2jjzeahwe30c9cc6dw3lkyk5qn5rmfa",
+        "swap_address": "juno1acs6q36t6qje5k82h5g74plr258y2q90cjf9z4wnktt7caln0mhsx8mt7z",
+        "symbol": "CANLAB",
+        "name": "CANLAB",
+        "decimals": 3,
+        "logoURI": "https://raw.githubusercontent.com/seekingtau/junoswap-asset-list/main/images/cannalabs.png",
+        "tags": [
+          "cw20"
+        ],
+        "native": false,
+        "denom": "canlab"
+      },
+      {
+        "id": "",
+        "pool_id": "JUNO-TUCK",
+        "chain_id": "juno-1",
+        "token_address": "juno1wurfx334prlceydmda3aecldn2xh4axhqtly05n8gptgl69ee7msrewg6y",
+        "swap_address": "juno133xa84qnue3uy0mj9emvauddxzw554rfl9rr6eadhfau50ws7gvs4ynm79",
+        "symbol": "TUCK",
+        "name": "TUCK",
+        "decimals": 3,
+        "logoURI": "https://raw.githubusercontent.com/tuckermint/junoswap-asset-list/main/images/tuckermint.png",
+        "tags": [
+          "cw20"
+        ],
+        "native": false,
+        "denom": "tuck"
+      },
+      {
+        "id": "",
+        "pool_id": "JUNO-HULC",
+        "chain_id": "juno-1",
+        "token_address": "juno1pshrvuw5ng2q4nwcsuceypjkp48d95gmcgjdxlus2ytm4k5kvz2s7t9ldx",
+        "swap_address": "juno16zn96yf3vnxengke3vcf6mg9x7qyppgsdh3dnnmvdd8hvtpw58wsrjuu56",
+        "symbol": "HULC",
+        "name": "HULC",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/hulcat.png",
+        "tags": [
+          "cw20"
+        ],
+        "native": false,
+        "denom": "hulc"
+      },
+      {
+        "id": "bitcanna",
+        "pool_id": "JUNO-BITCANNA",
+        "chain_id": "bitcanna-1",
+        "token_address": "",
+        "swap_address": "juno1gv2gswtan8wsk54h663waefffywnuc9wcxr7xl5pnnxvjaqunpgs20t39g",
+        "symbol": "BCNA",
+        "name": "BCNA",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/bcna.png",
+        "tags": [
+          "native"
+        ],
+        "native": true,
+        "denom": "ibc/0CB5D60E57FD521FA39D11E3E410144389010AC5EF5F292BC9BDD832FA2FDBF9"
+      },
+      {
+        "id": "",
+        "pool_id": "JUNO-HOPE",
+        "chain_id": "juno-1",
+        "token_address": "juno1re3x67ppxap48ygndmrc7har2cnc7tcxtm9nplcas4v0gc3wnmvs3s807z",
+        "swap_address": "juno18nflutunkth2smnh257sxtxn9p5tq6632kqgsw6h0c02wzpnq9rq927heu",
+        "symbol": "HOPE",
+        "name": "HOPE GALAXY",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/seekingtau/junoswap-asset-list/main/images/hopelogo.png",
+        "tags": [
+          "cw20"
+        ],
+        "native": false,
+        "denom": "hope"
+      },
+      {
+        "id": "",
+        "pool_id": "JUNO-RAC",
+        "chain_id": "juno-1",
+        "token_address": "juno1r4pzw8f9z0sypct5l9j906d47z998ulwvhvqe5xdwgy8wf84583sxwh0pa",
+        "swap_address": "juno1m08vn7klzxh9tmqwajuux202xms2qz3uckle7zvtturcq7vk2yaqpcwxlz",
+        "symbol": "RAC",
+        "name": "RAC",
+        "decimals": 6,
+        "logoURI": "https://raw.githubusercontent.com/racoon-supply-rac/junoswap-asset-list/main/images/racoon.png",
+        "tags": [
+          "cw20"
+        ],
+        "native": false,
+        "denom": "rac"
+      },
+      {
+        "id": "",
+        "pool_id": "JUNO-MARBLE",
+        "chain_id": "juno-1",
+        "token_address": "juno1g2g7ucurum66d42g8k5twk34yegdq8c82858gz0tq2fc75zy7khssgnhjl",
+        "swap_address": "juno1cvjuc66rdg34guugmxpz6w59rw6ghrun5m33z3hpvx6q60f40knqglhzzx",
+        "symbol": "MARBLE",
+        "name": "MARBLE",
+        "decimals": 3,
+        "logoURI": "https://i.ibb.co/WshPHkt/marble-logo.png",
+        "tags": [
+          "cw20"
+        ],
+        "native": false,
+        "denom": "marble"
+      },
+      {
+        "id": "",
+        "pool_id": "JUNO-COIN",
+        "chain_id": "juno-1",
+        "token_address": "juno1cl2ewl842wcnagz5psd68z4dpp4gfxrrm9atm807uvyyg235h85stg7awy",
+        "swap_address": "juno14nak8v6xeawstrq7r7qmpa67qqfc9xzzymfdfpnp0luycv8knyuq5a6w2m",
+        "symbol": "COIN",
+        "name": "CoinDex",
+        "decimals": "6",
+        "logoURI": "https://i.postimg.cc/x1YHzjG7/logo.jpg",
+        "tags": [
+          "cw20"
+        ],
+        "native": false,
+        "denom": "coin"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 1,
+      "patch": 0
+    }
   }
-}
