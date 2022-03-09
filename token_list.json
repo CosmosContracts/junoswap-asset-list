@@ -363,6 +363,20 @@
       ],
       "native":false,
       "denom": "marble"
+    },
+    {
+      "id": "dhk",
+      "pool_id": "JUNO-DHK",
+      "chain_id": "juno-1",
+      "token_address": "juno1tdjwrqmnztn2j3sj2ln9xnyps5hs48q3ddwjrz7jpv6mskappjys5czd49",
+      "swap_address": "juno19jlnnqvgehj7vex48p7sjfpl6te98els8ca6txrmvhesrlzgytcq0aankj",
+      "symbol": "DHK",
+      "name": "DHK",
+      "decimals": 0,
+      "logoURI": "https://decentralizehk.org/wp-content/uploads/sites/78/2021/06/DHK-06.png",
+      "tags": ["cw20"],
+      "native":false,
+      "denom": "dhk"
     }
   ],
   "version": {
