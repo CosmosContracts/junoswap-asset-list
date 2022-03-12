@@ -245,7 +245,7 @@
       "symbol": "NETA",
       "name": "NETA",
       "decimals": 6,
-      "logoURI": "    https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/neta.png",
+      "logoURI": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/neta.png",
       "tags": [
         "cw20"
       ],
@@ -261,7 +261,7 @@
       "symbol": "CANLAB",
       "name": "CANLAB",
       "decimals": 3,
-      "logoURI": "https://raw.githubusercontent.com/seekingtau/junoswap-asset-list/main/images/cannalabs.png",
+      "logoURI": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/cannalabs.png",
       "tags": [
         "cw20"
       ],
@@ -277,7 +277,7 @@
       "symbol": "TUCK",
       "name": "TUCK",
       "decimals": 3,
-      "logoURI": "https://raw.githubusercontent.com/tuckermint/junoswap-asset-list/main/images/tuckermint.png",
+      "logoURI": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/tuckermint.png",
       "tags": [
         "cw20"
       ],
@@ -293,7 +293,7 @@
       "symbol": "HULC",
       "name": "HULC",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/cosmostation/cosmostation_token_resource/master/coin_image/juno/cw20/hulcat.png",
+      "logoURI": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/hulcat.png",
       "tags": [
         "cw20"
       ],
@@ -316,7 +316,7 @@
       "native": true,
       "denom": "ibc/0CB5D60E57FD521FA39D11E3E410144389010AC5EF5F292BC9BDD832FA2FDBF9"
     },
-        {
+    {
       "id": "",
       "pool_id": "JUNO-HOPE",
       "chain_id": "juno-1",
@@ -325,13 +325,13 @@
       "symbol": "HOPE",
       "name": "HOPE GALAXY",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/seekingtau/junoswap-asset-list/main/images/hopelogo.png",
+      "logoURI": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/hopelogo.png",
       "tags": [
         "cw20"
       ],
       "native": false,
       "denom": "hope"
-},
+    },
     {
       "id": "",
       "pool_id": "JUNO-RAC",
@@ -341,11 +341,11 @@
       "symbol": "RAC",
       "name": "RAC",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/racoon-supply-rac/junoswap-asset-list/main/images/racoon.png",
+      "logoURI": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/racoon.png",
       "tags": [
         "cw20"
       ],
-      "native":false,
+      "native": false,
       "denom": "rac"
     },
     {
@@ -357,12 +357,44 @@
       "symbol": "MARBLE",
       "name": "MARBLE",
       "decimals": 3,
-      "logoURI": "https://i.ibb.co/WshPHkt/marble-logo.png",
+      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/marble.png",
       "tags": [
         "cw20"
       ],
-      "native":false,
+      "native": false,
       "denom": "marble"
+    },
+    {
+      "id": "",
+      "pool_id": "JUNO-COIN",
+      "chain_id": "juno-1",
+      "token_address": "juno1cl2ewl842wcnagz5psd68z4dpp4gfxrrm9atm807uvyyg235h85stg7awy",
+      "swap_address": "juno14nak8v6xeawstrq7r7qmpa67qqfc9xzzymfdfpnp0luycv8knyuq5a6w2m",
+      "symbol": "COIN",
+      "name": "CoinDex",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/coindex.png",
+      "tags": [
+        "cw20"
+      ],
+      "native": false,
+      "denom": "coin"
+    },
+    {
+      "id": "",
+      "pool_id": "JUNO-WKASH",
+      "chain_id": "juno-1",
+      "token_address": "juno1aw23epxge5t43kuwg8gkm2chgp5hrh74n7tpg6k48ajuxv0n9r7sz0s2jf",
+      "swap_address": "juno1jckkjg73vp5djjm0ujd8xha9q2x8xte5yhx60gm2pkha3x7szrpq0ys7zm",
+      "symbol": "WKASH",
+      "name": "Welike Cash",
+      "decimals": "6",
+      "logoURI": "https://welikenodes.onelike.biz/images/W-360.png",
+      "tags": [
+        "cw20"
+      ],
+      "native": false,
+      "denom": "wkash"
     }
   ],
   "version": {
