@@ -395,7 +395,23 @@
       ],
       "native":false,
       "denom":"hansum"
-     }
+     },
+     {
+      "id":"",
+      "pool_id": "JUNO-PRIMO",
+      "chain_id": "juno-1",
+      "token_address": "juno1t8dnpktypue65q0hjz7tr3cvqypgj5vkxhd2twvng4a2ywa3j25spjuk6z",
+      "swap_address": "juno1enl842z00cklnathpv8f3t3w2u70dkrq22crz3gxg38we7xjfq5s8lktmg",
+      "symbol": "PRIMO",
+      "name": "Cardinal Finance ",
+      "decimals": "6",
+      "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/primo.png",
+      "tags": [
+        "cw20"
+      ],
+      "native": false,
+      "denom": "primo"
+    }
   ],
   "version": {
     "major": 0,
