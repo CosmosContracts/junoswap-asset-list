@@ -316,7 +316,7 @@
       "native": true,
       "denom": "ibc/0CB5D60E57FD521FA39D11E3E410144389010AC5EF5F292BC9BDD832FA2FDBF9"
     },
-        {
+    {
       "id": "",
       "pool_id": "JUNO-HOPE",
       "chain_id": "juno-1",
@@ -331,7 +331,7 @@
       ],
       "native": false,
       "denom": "hope"
-},
+    },
     {
       "id": "",
       "pool_id": "JUNO-RAC",
@@ -345,7 +345,7 @@
       "tags": [
         "cw20"
       ],
-      "native":false,
+      "native": false,
       "denom": "rac"
     },
     {
@@ -361,9 +361,9 @@
       "tags": [
         "cw20"
       ],
-      "native":false,
+      "native": false,
       "denom": "marble"
-    }, 
+    },
     {
       "id": "",
       "pool_id": "JUNO-COIN",
@@ -395,6 +395,22 @@
       ],
       "native": false,
       "denom": "primo"
+    },
+    {
+      "id": "",
+      "pool_id": "JUNO-WKASH",
+      "chain_id": "juno-1",
+      "token_address": "juno1aw23epxge5t43kuwg8gkm2chgp5hrh74n7tpg6k48ajuxv0n9r7sz0s2jf",
+      "swap_address": "juno1jckkjg73vp5djjm0ujd8xha9q2x8xte5yhx60gm2pkha3x7szrpq0ys7zm",
+      "symbol": "WKASH",
+      "name": "Welike Cash",
+      "decimals": "6",
+      "logoURI": "https://welikenodes.onelike.biz/images/W-360.png",
+      "tags": [
+        "cw20"
+      ],
+      "native": false,
+      "denom": "wkash"
     }
   ],
   "version": {
