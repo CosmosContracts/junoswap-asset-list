@@ -395,7 +395,38 @@
       ],
       "native":false,
       "denom":"hansum"
-     }
+     },
+    {
+      "pool_id": "JUNO-PRIMO",
+      "chain_id": "juno-1",
+      "token_address": "juno1t8dnpktypue65q0hjz7tr3cvqypgj5vkxhd2twvng4a2ywa3j25spjuk6z",
+      "swap_address": "juno1enl842z00cklnathpv8f3t3w2u70dkrq22crz3gxg38we7xjfq5s8lktmg",
+      "symbol": "PRIMO",
+      "name": "Cardinal Finance ",
+      "decimals": "6",
+      "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/primo.png",
+      "tags": [
+        "cw20"
+      ],
+      "native": false,
+      "denom": "primo"
+    },
+    {
+      "id": "",
+      "pool_id": "JUNO-DAISY",
+      "chain_id": "juno-1",
+      "token_address": "juno1p32te9zfhd99ehpxfd06hka6hc9p7tv5kyl5909mzedg5klze09qrg08ry",
+      "swap_address": "juno14p3wvpeezqueenfu9jy29s96xuk0hp38k5d5k4ysyzk789v032sqp8uvh3",
+      "symbol": "DAISY",
+      "name": "Daisy Finance ",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/daisy.png",
+      "tags": [
+        "cw20"
+      ],
+      "native": false,
+      "denom": "daisy"
+    }
   ],
   "version": {
     "major": 0,
