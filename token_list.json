@@ -411,22 +411,6 @@
       ],
       "native": false,
       "denom": "daisy"
-    },
-    {
-      "id": "",
-      "pool_id": "JUNO-FUTURE",
-      "chain_id": "juno-1",
-      "token_address": "juno1gzys54drag6753qq75mkt3yhjwyv4rp698kfvesh0wcy5737z4tsn0chtm",
-      "swap_address": "juno1fzl79pekf8wtd0y37q92dmz5h9dxtfpl97w3kguyc59m7ufnlzvsf46vf8",
-      "symbol": "FUTURE",
-      "name": "FUTURE OF",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/futuretoken.png",
-      "tags": [
-        "cw20"
-      ],
-      "native": false,
-      "denom": "future"
     }
   ],
   "version": {
