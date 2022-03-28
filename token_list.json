@@ -443,6 +443,22 @@
       ],
       "native": false,
       "denom": "bfot"
+    },
+     {
+      "id": "",
+      "pool_id": "JUNO-ESUNA",
+      "chain_id": "juno-1",
+      "token_address": "juno1hd6gykfwxr6n4zkshxqefm8un6kamrlzs49mlypk57kzedum43nqtj24c9",
+      "swap_address": "juno12p855epr89yfrlc0xrmpdcr96xrq2whtgy7h2sf2p84wayj32n9svtey4f",
+      "symbol": "ESUNA",
+      "name": "ESUNA",
+      "decimals": "6",
+      "logoURI": "https://uploads-ssl.webflow.com/6227e8eefb57794891abd4f9/623fc1161918ec3f0d4db956_bg_08.png",
+      "tags": [
+        "cw20"
+      ],
+      "native": false,
+      "denom": "esuna"
     }
   ],
   "version": {
