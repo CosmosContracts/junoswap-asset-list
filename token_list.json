@@ -443,6 +443,22 @@
       ],
       "native": false,
       "denom": "bfot"
+    },
+    {
+      "id": "",
+      "pool_id": "JUNO-WOIN",
+      "chain_id": "juno-1",
+      "token_address": "juno1enxzhqt4gsxcw4kysyzypej3lqknxw227n3aymg3xraa2q47wtasqn3cmu",
+      "swap_address": "juno1hgu7thj0mxrrrc5vfsjutw8c0lhvaetrmam065mt70kk7gj9s35sktthxc",
+      "symbol": "WOIN",
+      "name": "W Coin",
+      "decimals": "6",
+      "logoURI": "https://welikenodes.onelike.biz/images/W.png",
+      "tags": [
+        "cw20"
+      ],
+      "native": false,
+      "denom": "woin"
     }
   ],
   "version": {
