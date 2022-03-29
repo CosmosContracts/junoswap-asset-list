@@ -443,7 +443,23 @@
       ],
       "native": false,
       "denom": "bfot"
-    }
+    },
+    {
+    "id": "",
+    "pool_id": "JUNO-ARTO",
+    "chain_id": "juno-1",
+    "token_address": "juno1hy0ky3pe742phd4w55tdfej0ez55h4jx4g06rp4wsa0mne9wzudqy4hum2",
+    "swap_address": "juno1fpphzkkq5uyezm7amk6sslyz8r94wl658zg2ku47v8mtslueyx5q29rkzq",
+    "symbol": "ARTO",
+    "name": "ARTO DAO",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/seekingtau/junoswap-asset-list/main/images/arto.png",
+    "tags": [
+      "cw20"
+    ],
+    "native": false,
+    "denom": "arto"
+  }
   ],
   "version": {
     "major": 0,
