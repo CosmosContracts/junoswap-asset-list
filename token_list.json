@@ -453,7 +453,7 @@
     "symbol": "ARTO",
     "name": "ARTO DAO",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/seekingtau/junoswap-asset-list/main/images/arto.png",
+    "logoURI": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/arto.png",
     "tags": [
       "cw20"
     ],
