@@ -194,6 +194,19 @@
       "juno_channel": "channel-9",
       "juno_denom": "ibc/B9F7C1E4CE9219B5AF06C47B18661DBD49CCD7A6C18FF789E2FB62BB365CFF9C",
       "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/eeur.png"
+    },
+    {
+      "id": "fetch-ai",
+      "name": "FET",
+      "symbol": "FET",
+      "chain_id": "fetchhub-4",
+      "rpc": "https://rpc-fetchhub.fetch.ai:443",
+      "denom": "afet",
+      "decimals": 18,
+      "channel": "channel-12",
+      "juno_channel": "channel-77",
+      "juno_denom": "ibc/51483CD923BB03C6CC9EC269D0D3BBEF85E2BA12D55E4F252F4FDCD2E04D15B1",
+      "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/fet.png"
     }
   ]
 }
