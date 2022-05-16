@@ -90,6 +90,23 @@
           "decimals": 6
         }
       ]
+    },
+    {
+      "token_address": "",
+      "swap_address": "juno1e8n6ch7msks487ecznyeagmzd5ml2pq9tgedqt2u63vra0q0r9mqrjy6ys",
+      "rewards_tokens": [
+        {
+          "rewards_address": "juno1f75lut5uvgh39zvzgqpskgr5llg2uk6kzhy2u2znyuwlgrvdjfyscytnvd",
+          "token_address": "juno1r4pzw8f9z0sypct5l9j906d47z998ulwvhvqe5xdwgy8wf84583sxwh0pa",
+          "swap_address": "juno1e8n6ch7msks487ecznyeagmzd5ml2pq9tgedqt2u63vra0q0r9mqrjy6ys",
+          "symbol": "RAC",
+          "name": "RAC",
+          "logoURI": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/racoon.png",
+          "native": false,
+          "denom": "rac",
+          "decimals": 6
+        }
+      ]
     }
   ]
 }
