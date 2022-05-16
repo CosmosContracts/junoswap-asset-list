@@ -342,6 +342,7 @@
       "chain_id": "juno-1",
       "token_address": "juno1r4pzw8f9z0sypct5l9j906d47z998ulwvhvqe5xdwgy8wf84583sxwh0pa",
       "swap_address": "juno1m08vn7klzxh9tmqwajuux202xms2qz3uckle7zvtturcq7vk2yaqpcwxlz",
+      "staking_address": "juno185wfgaxx2n9mmyurj5ssawm2grggdf8wnsp3cw6rn6fs8ljsl87sx7xm68",
       "symbol": "RAC",
       "name": "RAC",
       "decimals": 6,
