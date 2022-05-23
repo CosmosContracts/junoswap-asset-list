@@ -518,6 +518,20 @@
       "tags": ["cw20"],
       "native": false,
       "denom": "joe"
+    },
+    {
+      "id": "",
+      "pool_id": "JUNO-axlDAI",
+      "chain_id": "axelar-dojo-1",
+      "token_address": "",
+      "swap_address": "juno1d545c5x0rt4lgz0fh67aq2jhv93kn7y8a63g6avtqjykeutvgtsqxzsjqd",
+      "symbol": "axlDAI",
+      "name": "DAI",
+      "decimals": "6",
+      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/axldai.png",
+      "tags": ["native"],
+      "native": true,
+      "denom": "ibc/171E8F6687D290D378678310F9F15D367DCD245BF06184532B703A92054A8A4F"
     }
   ],
   "version": {
