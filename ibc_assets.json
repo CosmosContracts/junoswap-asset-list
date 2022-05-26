@@ -194,6 +194,19 @@
       "juno_channel": "channel-9",
       "juno_denom": "ibc/B9F7C1E4CE9219B5AF06C47B18661DBD49CCD7A6C18FF789E2FB62BB365CFF9C",
       "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/eeur.png"
+    },
+    {
+      "id": "cerberus",
+      "name": "CRBRUS",
+      "symbol": "CRBRUS",
+      "chain_id": "cerberus-chain-1",
+      "rpc": "https://rpc.cerberus.zone:26657",
+      "denom": "ucrbrus",
+      "decimals": 6,
+      "channel": "channel-5",
+      "juno_channel": "channel-85",
+      "juno_denom": "ibc/41999df04d9441dac0df5d8291df4333fbcba810ffd63fdce34fdf41ef37b6f7",
+      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/crbrus.png"
     }
   ]
 }
