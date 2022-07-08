@@ -208,6 +208,20 @@
       "juno_denom": "ibc/EAC38D55372F38F1AFD68DF7FE9EF762DCF69F26520643CF3F9D292A738D8034",
       "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/axlusdc.png",
       "external_deposit_uri": "https://satellite.money/?source=ethereum&destination=juno&token=usdc"
+    },
+    {
+      "id": "fanfury",
+      "name": "FURY",
+      "symbol": "FURY",
+      "chain_id": "juno-1",
+      "rpc": "https://rpc-juno.itastakers.com:443",
+      "denom": "fury",
+      "decimals": 6,
+      "channel": "channel-4",
+      "juno_channel": "channel-71",
+      "juno_denom": "ibc/EAC38D55372F38F1AFD68DF7FE9EF762DCF69F26520643CF3F9D292A738D8034",
+      "logoURI": "https://github.com/FanFury/fury_assets/blob/main/FANFURY.png",
+      "external_deposit_uri": "https://fury.fan/"
     }
   ]
 }
