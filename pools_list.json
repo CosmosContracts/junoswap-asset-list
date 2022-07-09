@@ -1517,6 +1517,44 @@
          "rewards_tokens":[
             
          ]
+      },     
+      {
+        "pool_id":"JUNO-CANLAB",
+        "pool_assets":[
+          {
+            "id":"juno-network",
+            "chain_id":"juno-1",
+            "token_address":"",
+            "symbol":"JUNO",
+            "name":"Juno",
+            "decimals":6,
+            "logoURI":"https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/juno.png",
+            "tags":[
+                "native"
+            ],
+            "native":true,
+            "denom":"ujuno"
+          },
+          {
+            "id":"",
+            "chain_id":"juno-1",
+            "token_address":"juno1chffcwpn5kyk9ejnmxqd9m7e7phdfm2crnrew4qhjxrjfrpd9lgszwy7jg",
+            "symbol":"PURPLE",
+            "name":"PURPLE",
+            "decimals":6,
+            "logoURI":"https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/purpleLogo.png",
+            "tags":[
+                "cw20"
+            ],
+            "native":false,
+            "denom":"purple"
+          }
+        ],
+          "swap_address":"juno1d6tpwltnpkjud35dvmqmv7cpharn98l8895cx3738x4cy309w3ksa9mtqt",
+          "staking_address":"",
+          "rewards_tokens":[
+
+        ]
       }
    ],
    "version":{
