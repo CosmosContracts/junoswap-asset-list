@@ -1725,6 +1725,41 @@
         "staking_address": "",
         "rewards_tokens": [
         ]
+      },
+      {
+        "pool_id": "DRGN-JUNO",
+        "pool_assets": [
+          {
+            "id": "",
+            "chain_id": "juno-1",
+            "token_address": "juno147t4fd3tny6hws6rha9xs5gah9qa6g7hrjv9tuvv6ce6m25sy39sq6yv52",
+            "symbol": "DRGN",
+            "name": "Stake Dragons",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/cosmoscontracts/junoswap-asset-list/main/images/drgn.png",
+            "tags": ["cw20"],
+            "native": false,
+            "denom": "drgn"
+          },
+          {
+            "id":"juno-network",
+            "chain_id":"juno-1",
+            "token_address":"",
+            "symbol":"JUNO",
+            "name":"Juno",
+            "decimals":6,
+            "logoURI":"https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/juno.png",
+            "tags":[
+               "native"
+            ],
+            "native":true,
+            "denom":"ujuno"
+          }
+        ],
+        "swap_address": "juno1fjmrqc5tjj2t5mfwkk5utwz2t0gcpkfajjefllrfahuqanctn9ys968emr",
+        "staking_address": "",
+        "rewards_tokens": [
+        ]
       }
    ],
    "version":{
