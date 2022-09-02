@@ -221,6 +221,19 @@
       "juno_channel": "channel-83",
       "juno_denom": "ibc/5CB906E82B7A88E62644AD811361F5858B74BA9EBD75C84B6D24B20C01A4819F",
       "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/assetmantle.png"
+    },
+    {
+      "id": "Evmos",
+      "name": "EVMOS",
+      "symbol": "EVMOS",
+      "chain_id": "evmos_9001-2",
+      "rpc": "https://evmos-rpc.polkachu.com:443",
+      "denom": "aevmos",
+      "decimals": 6,
+      "channel": "channel-5",
+      "juno_channel": "channel-70",
+      "juno_denom": "ibc/9B990F95D85E7CA8C46544975776CAA20A3DEE3507EEA829A4000D8D65617F6D",
+      "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/evmos.png"
     }
   ]
 }
