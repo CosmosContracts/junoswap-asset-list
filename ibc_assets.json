@@ -223,7 +223,7 @@
       "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/assetmantle.png"
     },
     {
-      "id": "Evmos",
+      "id": "evmos",
       "name": "EVMOS",
       "symbol": "EVMOS",
       "chain_id": "evmos_9001-2",
