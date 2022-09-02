@@ -1726,6 +1726,41 @@
         "rewards_tokens": [
         ]
       }
+      {
+      "pool_id":"EVMOS-RAW",
+      "pool_assets":[
+         {
+            "id":"evmos",
+            "chain_id":"juno-1",
+            "token_address":"",
+            "symbol":"EVMOS",
+            "name":"Evmos",
+            "decimals":6,
+            "logoURI":"https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/Evmos.png",
+            "tags":[
+               "native"
+            ],
+            "native":true,
+            "denom":"ibc/9B990F95D85E7CA8C46544975776CAA20A3DEE3507EEA829A4000D8D65617F6D"
+         }
+         {
+           "id":"",
+           "chain_id":"juno-1",
+           "token_address":"juno15u3dt79t6sxxa3x3kpkhzsy56edaa5a66wvt3kxmukqjz2sx0hes5sn38g",
+           "symbol":"RAW",
+           "name":"Raw",
+           "decimals":6,
+           "logoURI":"https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/Raw.png",
+           "tags":[
+              "cw20"
+           ],
+           "native":false,
+           "denom":"raw"
+        }
+      ],
+      "swap_address":"juno1dlhl4jqelj8va3h4ay9pzypy0nv7xqv84t6sklxzhep4u8j045sst2kms4"
+      ]
+   }
    ],
    "version":{
       "major":0,
