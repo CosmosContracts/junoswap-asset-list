@@ -221,6 +221,19 @@
       "juno_channel": "channel-83",
       "juno_denom": "ibc/5CB906E82B7A88E62644AD811361F5858B74BA9EBD75C84B6D24B20C01A4819F",
       "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/assetmantle.png"
+    },
+    {
+      "id": "Crescent-Network",
+      "name": "CRE",
+      "symbol": "CRE",
+      "chain_id": "crescent-1",
+      "rpc": "https://crescent-rpc.polkachu.com:443",
+      "denom": "ucre",
+      "decimals": 6,
+      "channel": "channel-3",
+      "juno_channel": "channel-81",
+      "juno_denom": "ibc/B7EA961307B6915512F1204B78B6180851DD7474469EB21F16D30DF74DA22903",
+      "logoURI": "https://raw.githubusercontent.com/bilalkhan360/junoswap-asset-list/842a261593da1bf0ddb8dcd28646ec2676d01e2a/images/CRE.png"
     }
   ]
 }
