@@ -1759,6 +1759,43 @@
         "rewards_tokens": [
         ]
       },
+	    {
+      "pool_id": "JUNO-MUSE",
+      "pool_assets": [
+        {
+          "id": "juno-network",
+          "chain_id": "juno-1",
+          "token_address": "",
+          "symbol": "JUNO",
+          "name": "Juno",
+          "decimals": 6,
+          "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/juno.png",
+          "tags": [
+            "native"
+          ],
+          "native": true,
+          "denom": "ujuno"
+        },
+        {
+          "id": "",
+          "chain_id": "juno-1",
+          "token_address": "juno1p8x807f6h222ur0vssqy3qk6mcpa40gw2pchquz5atl935t7kvyq894ne3",
+          "symbol": "MUSE",
+          "name": "MUSE",
+          "decimals": "6",
+          "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/MUSE.png",
+          "tags": [
+            "cw20"
+          ],
+          "native": false,
+          "denom": "muse"
+        }
+      ],
+      "swap_address": "juno107l74mj5q7d6zdzqzwpmdkk76628az2p9z08z9cj5pa7s5fpucws96f57e",
+      "staking_address": "",
+      "rewards_tokens": [
+	  ]
+      } ,
       {
         "pool_id": "CRE-RAW",
         "pool_assets": [
@@ -1794,6 +1831,7 @@
         "rewards_tokens": [
         ]
       }
+
    ],
    "version":{
       "major":0,
