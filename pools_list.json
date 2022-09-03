@@ -1758,6 +1758,41 @@
         "staking_address": "",
         "rewards_tokens": [
         ]
+      },
+      {
+        "pool_id": "CRE-RAW",
+        "pool_assets": [
+          {
+            "id": "crescent",
+            "chain_id": "crescent-1",
+            "token_address": "",
+            "symbol": "CRE",
+            "name": "CRESCENT",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/842a261593da1bf0ddb8dcd28646ec2676d01e2a/images/CRE.png",
+            "tags": ["native"],
+            "native": true,
+            "denom": "ibc/B7EA961307B6915512F1204B78B6180851DD7474469EB21F16D30DF74DA22903"
+          },
+          {
+            "id":"",
+            "chain_id":"juno-1",
+            "token_address":"juno15u3dt79t6sxxa3x3kpkhzsy56edaa5a66wvt3kxmukqjz2sx0hes5sn38g",
+            "symbol":"RAW",
+            "name":"Raw",
+            "decimals":6,
+            "logoURI":"https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/Raw.png",
+            "tags":[
+              "cw20"
+            ],
+            "native":false,
+            "denom":"raw"
+          }
+        ],
+        "swap_address": "juno1vcnna64q553z63402cch4pv2wfdrje2aljf44v76dk5kax4fpmzqnryz5g",
+        "staking_address": "",
+        "rewards_tokens": [
+        ]
       }
    ],
    "version":{
