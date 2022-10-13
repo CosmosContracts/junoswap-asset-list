@@ -2102,7 +2102,43 @@
         "swap_address": "juno1pxn38k3kz9k8cjlrghdwzmkxz67l343k5xuxn744wa56vfddrepsx72j5x",
         "staking_address": "",
         "rewards_tokens": []
-      }   
+      }
+      {
+	"pool_id":"JUNO-EVMOS",
+	"pool_assets": [
+          {
+            "id":"juno-network",
+            "chain_id":"juno-1",
+            "token_address":"",
+            "symbol":"JUNO",
+            "name":"Juno",
+            "decimals":6,
+            "logoURI":"https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/juno.png",
+            "tags":[
+               "native"
+            ],
+            "native":true,
+            "denom":"ujuno"
+          }
+	  {
+	    "id":"evmos",
+	    "chain_id":"juno-1",
+	    "token_address":"",
+	    "symbol":"EVMOS",
+	    "name":"Evmos",
+	    "decimals":6,
+	    "logoURI":"https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/Evmos.png",
+	    "tags":[
+	       "native"
+	    ],
+	    "native":true,
+	    "denom":"ibc/9B990F95D85E7CA8C46544975776CAA20A3DEE3507EEA829A4000D8D65617F6D"
+	  }
+        ],
+        "swap_address": "juno1pzar90e9k49avkxpd0n2twcvjkxzx9dd457r03mmp78fg9280c5sk8r8w4",
+        "staking_address": "",
+        "rewards_tokens": []
+      }
    ],
    "version":{
       "major":0,
