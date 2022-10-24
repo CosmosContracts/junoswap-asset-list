@@ -1985,8 +1985,19 @@
         }
       ],
       "swap_address": "juno107l74mj5q7d6zdzqzwpmdkk76628az2p9z08z9cj5pa7s5fpucws96f57e",
-      "staking_address": "",
+      "staking_address": "juno19qswdr73m7u5l6vmxyr86emlfugpd0jlmpsu7n9zexkt5x80g2vq4gx0e8",
       "rewards_tokens": [
+	    {
+            "rewards_address": "juno1zkf802n7j2npye49napwpzrdt2n5yx7e9n04q8fh3tudgx98tf5q9h9n43",
+            "token_address": "juno1p8x807f6h222ur0vssqy3qk6mcpa40gw2pchquz5atl935t7kvyq894ne3",
+            "swap_address": "juno107l74mj5q7d6zdzqzwpmdkk76628az2p9z08z9cj5pa7s5fpucws96f57e",
+            "symbol": "MUSE",
+            "name": "MUSE",
+            "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/MUSE.png",
+            "native": false,
+            "denom": "muse",
+            "decimals": 6
+         }
 	  ]
       },
       {
