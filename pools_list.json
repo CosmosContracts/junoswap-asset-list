@@ -2201,7 +2201,39 @@
         "swap_address": "juno1z8c5kqh2yc48wstsq4h68lk78kxmf0rh30qs5f6d7luxzledvjtsxgugzt",
         "staking_address": "",
         "rewards_tokens": []
-      }
+      },
+      {
+         "pool_id": "DENGAKU-NATTO",
+         "pool_assets": [
+           {
+             "id": "juno-network",
+             "chain_id": "juno-1",
+             "token_address": "",
+             "symbol": "DENGAKU",
+             "name": "DENGAKU",
+             "decimals": 6,
+             "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/dengaku.png",
+             "tags": ["cw20"],
+             "native": false,
+             "denom": "juno176mpx9m30667vrkcrzxq8t3cpaws6gya7tgjq07xnvy79q9zwldss7fwv6"
+           },
+           {
+             "id": "",
+             "chain_id": "juno-1",
+             "token_address": "juno1x02k67asfmjawgc96dj8nxq6se3fmx36gedgs5hvkjegdhfy97rs3jgj2h",
+             "symbol": "NATTO",
+             "name": "NATTO",
+             "decimals": 6,
+             "logoURI": "https://raw.githubusercontent.com/CosmosContracts/junoswap-asset-list/main/images/natto.png",
+             "tags": ["cw20"],
+             "native": false,
+             "denom": "juno1vn7z90efc3xju59ahrawchd6t70xsmmewuyzhms3vftfwcy928dqck2qnk"
+           }
+         ],
+         "swap_address": "juno1tdtka4ah67nl6aj4etx6qv7jnq6dlmw8kmhp9336j5udlh82jlyq5eycxj",
+         "staking_address": "",
+         "rewards_tokens": []
+       }
    ],
    "version":{
       "major":0,
